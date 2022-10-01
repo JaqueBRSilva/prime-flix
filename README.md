@@ -4,7 +4,9 @@
 
 <br />
    
-    Site de informações dos filmes mais recentes do ano - sinopse, avaliação dos usuários, trailer - com opção de salvar nos Favoritos.
+``
+Site de informações dos filmes mais recentes do ano - sinopse, avaliação dos usuários, trailer - com opção de salvar nos Favoritos.
+``
     
    Construído com
    <br />
